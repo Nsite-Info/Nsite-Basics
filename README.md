@@ -13,6 +13,7 @@ Even if your website is blocked on one domain, it remains accessible through dif
 - **Censorship Resistance** through redundancy  
 - **Non-KYC Hosting Solutions**  
 - **Multi-Gateway Resolution**  
+- **No Need for GitHub** – Store, edit, and deploy your website directly to **Blossom servers**  
 
 ---
 
@@ -33,6 +34,10 @@ If you're experiencing deployment issues, visit:
 
 2. **Upload & Broadcast**  
    - Once uploaded, **notes** (`Kind: 34128`) containing the **filename** and **file hash** are broadcasted to your **Nostr Outbox Relays** (`NIP 65`, `Kind: 10002`).  
+
+3. **No More GitHub Needed**  
+   - Since the website’s code is stored on **Blossom servers**, there’s no need for GitHub.  
+   - You can **edit, deploy, and store** your website **directly on Blossom servers**, eliminating dependency on centralized version control platforms.  
 
 ---
 
