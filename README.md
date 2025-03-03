@@ -19,6 +19,8 @@ Even if your website is blocked on one domain, it remains accessible through dif
 
 ## Where Do I Get Started?  
 
+Below in this guide you will find the Nsite Deploy Instructions. 
+
 We have compiled a list of tools to help you deploy your website. You can find them here:  
 🔗 [Nsite Tools](https://nsite.info/tools)  
 
@@ -47,7 +49,7 @@ Currently, most sites still rely on the **DNS backbone**. However, it is possibl
 
 The primary goal is to create websites that can resolve **natively over the clearnet**.  
 
-# Nsite Deploy Instructions  
+## Nsite Deploy Instructions  
 **~ 30 min guide**  
 
 ## Introduction  
